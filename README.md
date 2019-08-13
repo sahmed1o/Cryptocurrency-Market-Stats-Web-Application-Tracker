@@ -23,7 +23,7 @@ Here are the intervals at which the script commands should run as a cron job:
 
 
 # Historical Data
-The updatehistoricdata.php cron job takes the current data stored and updates the historic data on the site. Historical data is from coinmarketcap and is not included in this repo due to its large size. The historical data can be retrieved using the gethistoricdat.php script, it grabs the scraped historical data from coinmarketcap for all coins. The historical data for the top 10 coins has been included to show how the data is graphed in the information page for the coins.
+The updatehistoricdata.php cron job takes the current data stored and updates the historic data on the site. Historical data is from coinmarketcap but not all of it is included in this repo due to its large size. The historical data can be retrieved using the gethistoricdat.php script, it grabs the scraped historical data from coinmarketcap for all coins. The historical data for the top 2000 coins has been included to show how the data is graphed in the information page for the coins.
 
 <img src="screenshots/screenbg4.png"  height="400" />
 <img src="screenshots/screenbg5.png"  height="400" />
