@@ -1,0 +1,425 @@
+/* 
+========================================= 
+========================================= 
+
+Multi template By Bootstrapious.com     
+
+========================================= 
+========================================= */
+/* variant 5 - blue */
+/*
+
+
+=====================
+GENERAL
+=====================
+
+*/
+
+section {
+  position: relative;
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+section.section--no-padding {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.italic {
+  font-style: italic;
+  font-family: "Georgia", "Times New Roman", Times, serif;
+}
+.heading {
+  margin-bottom: 20px;
+}
+.heading:after {
+  content: " ";
+  display: block;
+  width: 40px;
+  height: 1px;
+  margin: 10px 0 20px;
+  background: #2b90d9;
+}
+.img-responsive {
+  margin: 0 auto;
+}
+.no-space .box {
+  margin: 0 -15px;
+  padding: 0;
+}
+.margin-top {
+  margin-top: 30px;
+}
+.margin-bottom {
+  margin-bottom: 30px !important;
+}
+.margin-bottom--medium {
+  margin-bottom: 45px !important;
+}
+.margin-bottom--big {
+  margin-bottom: 60px !important;
+}
+a,
+button {
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+a i.fa,
+button i.fa {
+  margin: 0 5px;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
+.clickable {
+  cursor: pointer !important;
+}
+.required {
+  color: #2b90d9;
+}
+.accent {
+  color: #2b90d9;
+}
+.text-uppercase {
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+.list-style-none {
+  list-style: none;
+}
+.weight-300 {
+  font-weight: 300 !important;
+}
+.weight-500 {
+  font-weight: 500 !important;
+}
+.weight-700 {
+  font-weight: 700 !important;
+}
+.text-gray {
+  color: #555555;
+}
+.text-gray-light {
+  color: #999999;
+}
+.text-gray-lighter {
+  color: #eeeeee;
+}
+.background-gray-lightest {
+  background: #f7f7f7;
+}
+.background-gray-lighter {
+  background: #eeeeee;
+}
+.background-gray-light {
+  background: #999999;
+}
+.background-gray {
+  background: #555555;
+}
+.pages {
+  text-align: center;
+}
+#map {
+  height: 600px;
+}
+.btn-ghost {
+  color: #2b90d9;
+  background-color: transparent;
+  border-color: #2b90d9;
+}
+.btn-ghost:hover,
+.btn-ghost:focus,
+.btn-ghost:active,
+.btn-ghost.active,
+.open .dropdown-toggle.btn-ghost {
+  color: #2b90d9;
+  background-color: rgba(0, 0, 0, 0);
+  border-color: #1e6fa9;
+}
+.btn-ghost:active,
+.btn-ghost.active,
+.open .dropdown-toggle.btn-ghost {
+  background-image: none;
+}
+.btn-ghost.disabled,
+.btn-ghost[disabled],
+fieldset[disabled] .btn-ghost,
+.btn-ghost.disabled:hover,
+.btn-ghost[disabled]:hover,
+fieldset[disabled] .btn-ghost:hover,
+.btn-ghost.disabled:focus,
+.btn-ghost[disabled]:focus,
+fieldset[disabled] .btn-ghost:focus,
+.btn-ghost.disabled:active,
+.btn-ghost[disabled]:active,
+fieldset[disabled] .btn-ghost:active,
+.btn-ghost.disabled.active,
+.btn-ghost[disabled].active,
+fieldset[disabled] .btn-ghost.active {
+  background-color: transparent;
+  border-color: #2b90d9;
+}
+.btn-ghost .badge {
+  color: transparent;
+  background-color: #2b90d9;
+}
+.btn-ghost:hover,
+.btn-ghost:focus,
+.btn-ghost:active,
+.btn-ghost.active,
+.open .dropdown-toggle.btn-ghost {
+  color: #fff;
+  background-color: #2b90d9;
+  border-color: #2b90d9;
+}
+.btn-white {
+  color: #ffffff;
+  background-color: transparent;
+  border-color: #ffffff;
+}
+.btn-white:hover,
+.btn-white:focus,
+.btn-white:active,
+.btn-white.active,
+.open .dropdown-toggle.btn-white {
+  color: #ffffff;
+  background-color: rgba(0, 0, 0, 0);
+  border-color: #e0e0e0;
+}
+.btn-white:active,
+.btn-white.active,
+.open .dropdown-toggle.btn-white {
+  background-image: none;
+}
+.btn-white.disabled,
+.btn-white[disabled],
+fieldset[disabled] .btn-white,
+.btn-white.disabled:hover,
+.btn-white[disabled]:hover,
+fieldset[disabled] .btn-white:hover,
+.btn-white.disabled:focus,
+.btn-white[disabled]:focus,
+fieldset[disabled] .btn-white:focus,
+.btn-white.disabled:active,
+.btn-white[disabled]:active,
+fieldset[disabled] .btn-white:active,
+.btn-white.disabled.active,
+.btn-white[disabled].active,
+fieldset[disabled] .btn-white.active {
+  background-color: transparent;
+  border-color: #ffffff;
+}
+.btn-white .badge {
+  color: transparent;
+  background-color: #ffffff;
+}
+.btn-white:hover,
+.btn-white:focus,
+.btn-white:active,
+.btn-white.active,
+.open .dropdown-toggle.btn-white {
+  color: #2b90d9;
+  background-color: #fff;
+  border-color: #fff;
+}
+.icon {
+  display: inline-block;
+  width: 80px;
+  height: 80px;
+  line-height: 80px;
+  border-radius: 40px;
+  border: solid 1px #2b90d9;
+  color: #2b90d9;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+  font-size: 40px;
+  margin: 0 auto 15px;
+  text-align: center;
+}
+.icon.brand-secondary {
+  border-color: #cccccc;
+  color: #cccccc;
+}
+.icon.brand-terciary {
+  border-color: #41a6ca;
+  color: #41a6ca;
+}
+.icon.brand-four {
+  border-color: #283044;
+  color: #283044;
+}
+.full-image img {
+  width: 100%;
+  max-width: 100%;
+}
+.full-image figcaption {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #999999;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 20px;
+}
+/*
+
+=====================
+SOCIAL LINKS
+=====================
+
+*/
+.contact-form {
+  margin-bottom: 20px;
+}
+p.social {
+  margin-top: 20px;
+}
+p.social a {
+  margin: 0 10px 10px 0;
+  color: #fff;
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  line-height: 40px;
+  font-size: 15px;
+  text-align: center;
+  vertical-align: bottom;
+  border: solid 1px #999999;
+  color: #999999;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+  /*
+             &.facebook {background-color: #4460ae; border-color: #4460ae;}
+             &.gplus {background-color: #c21f25; border-color: #c21f25;}
+             &.twitter {background-color: #3cf; border-color: #3cf;}
+             &.instagram {background-color: #cd4378; border-color: #cd4378;}
+             &.email {background-color: #4a7f45; border-color: #4a7f45;}
+             &.link {background-color: #871AFF; border-color: #871AFF;}
+             */
+}
+p.social a:hover {
+  color: #2b90d9;
+  border-color: #2b90d9;
+}
+p.social a i {
+  vertical-align: bottom;
+  line-height: 40px;
+}
+p.social.social--outline a {
+  background: transparent;
+}
+p.social.social--outline a.facebook {
+  color: #4460ae;
+  border-color: #4460ae;
+}
+p.social.social--outline a.gplus {
+  color: #c21f25;
+  border-color: #c21f25;
+}
+p.social.social--outline a.twitter {
+  color: #3cf;
+  border-color: #3cf;
+}
+p.social.social--outline a.instagram {
+  color: #cd4378;
+  border-color: #cd4378;
+}
+p.social.social--outline a.email {
+  color: #4a7f45;
+  border-color: #4a7f45;
+}
+p.social.social--outline a.link {
+  color: #871AFF;
+  border-color: #871AFF;
+}
+p.social.social--big a {
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  line-height: 50px;
+  font-size: 20px;
+}
+p.social.social--big i {
+  line-height: 50px;
+}
+/* jumbotron */
+.main-jumbotron {
+  position: relative;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  color: #fff;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+  text-align: center;
+  background: url('../img/jumbotron1.jpg') center center no-repeat;
+  background-size: cover;
+}
+
+.main-jumbotron2 {
+  position: relative;
+  padding-top: 160px;
+  padding-bottom: 160px;
+  color: #fff;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+  text-align: center;
+  background: url('../img/lawor.jpg') center center no-repeat;
+  background-size: cover;
+}
+
+.main-jumbotron3 {
+  position: relative;
+  padding-top: 160px;
+  padding-bottom: 160px;
+  color: #fff;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6);
+  text-align: center;
+  background: url('../img/contactus.jpg') center center no-repeat;
+  background-size: cover;
+}
+
+.main-jumbotron .content {
+  position: relative;
+}
+.main-jumbotron p a:not(.btn) {
+  color: #fff;
+}
+.main-jumbotron p a:not(.btn):hover {
+  color: #fff;
+  border-color: #fff;
+}
+.main-jumbotron .btn {
+  text-shadow: none;
+}
+.main-jumbotron:before {
+  display: block;
+  position: absolute;
+  content: " ";
+  background: #000;
+  opacity: 0.2;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+/* breadcrumbs */
+.breadcrumb {
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  text-align: left;
+  font-size: 12px;
+}
+
+#txtcolor{
+	color: white;
+}

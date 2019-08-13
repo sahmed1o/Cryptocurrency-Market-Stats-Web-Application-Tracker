@@ -1,0 +1,201 @@
+.table {
+    width: intrinsic;
+    max-width:intrinsic;
+}
+
+
+@media(min-width: 0px) and (max-width: 970px){
+	.wrapper {
+	  position: relative;
+	  overflow: hidden;
+	  height: 35px;
+	  width: 100%;
+	  border-top: 1px solid orange;
+	  border-bottom: 1px solid orange;
+	  margin-top: 5px;
+     background-color: black !important;
+	}
+
+	.wrapper p {
+	  position: relative;
+	  margin: 0;
+	  line-height: 35px;
+	  white-space: nowrap;
+	  animation: marquee 50s linear infinite;
+	  color: white;
+	  font-size: 16px;
+	}
+
+	@keyframes marquee {
+	  0% { transform: translateX(100%); }
+	  100% { transform: translateX(-140%); }
+	}
+}
+
+@media(min-width: 971px) and (max-width: 2400px){
+	.wrapper {
+	  position: relative;
+	  overflow: hidden;
+	  height: 3vw;
+	  width: 100%;
+	  border-top: 1px solid orange;
+	  border-bottom: 1px solid orange;
+	  margin-top: 5px;
+     background-color: black !important;
+	}
+
+	.wrapper p {
+	  position: relative;
+	  margin: 0;
+	  line-height: 3vw;
+	  white-space: nowrap;
+	  animation: marquee 50s linear infinite;
+	  color: white;
+	  font-size: 1.30vw;
+	}
+
+	@keyframes marquee {
+	  0% { transform: translateX(100%); }
+	  100% { transform: translateX(-170%); }
+	}
+}
+
+/* return to top button*/
+@media(min-width: 0px) and (max-width: 970px){
+#return-to-top {
+    position: fixed;
+    bottom: 80px;
+    left: 20px;
+    background: rgb(34, 34, 34);
+    background: rgba(34, 34, 34, 0.7);
+    width: 50px;
+    height: 50px;
+    display: block;
+    text-decoration: none;
+    -webkit-border-radius: 35px;
+    -moz-border-radius: 35px;
+    border-radius: 35px;
+    display: none;
+    -webkit-transition: all 0.3s linear;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+	z-index: 999999999999;
+}
+}
+
+@media(min-width: 971px) and (max-width: 2400px){
+#return-to-top {
+    position: fixed;
+    bottom: 80px;
+    right: 20px;
+    background: rgb(34, 34, 34);
+    background: rgba(34, 34, 34, 0.7);
+    width: 50px;
+    height: 50px;
+    display: block;
+    text-decoration: none;
+    -webkit-border-radius: 35px;
+    -moz-border-radius: 35px;
+    border-radius: 35px;
+    display: none;
+    -webkit-transition: all 0.3s linear;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+	z-index: 999999999999;
+}
+}
+
+#return-to-top i {
+    color: #fff;
+    margin: 0;
+    position: relative;
+    left: 13px;
+    top: 13px;
+    font-size: 19px;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+#return-to-top:hover {
+    background: rgba(34, 34, 34, 1);
+}
+#return-to-top:hover i {
+    color: #fff;
+    top: -5px;
+}
+
+/* return to bottom button*/
+@media(min-width: 0px) and (max-width: 970px){
+#return-to-bottom {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    background: rgb(34, 34, 34);
+    background: rgba(34, 34, 34, 0.7);
+    width: 50px;
+    height: 50px;
+    display: block;
+    text-decoration: none;
+    -webkit-border-radius: 35px;
+    -moz-border-radius: 35px;
+    border-radius: 35px;
+    display: none;
+    -webkit-transition: all 0.3s linear;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+	z-index: 999999999999;
+}
+}
+
+@media(min-width: 971px) and (max-width: 2400px){
+#return-to-bottom {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: rgb(34, 34, 34);
+    background: rgba(34, 34, 34, 0.7);
+    width: 50px;
+    height: 50px;
+    display: block;
+    text-decoration: none;
+    -webkit-border-radius: 35px;
+    -moz-border-radius: 35px;
+    border-radius: 35px;
+    display: none;
+    -webkit-transition: all 0.3s linear;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+	z-index: 999999999999;
+}
+}
+
+#return-to-bottom i {
+    color: #fff;
+    margin: 0;
+    position: relative;
+    left: 13px;
+    bottom: -15px;
+    font-size: 19px;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -ms-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+#return-to-bottom:hover {
+    background: rgba(34, 34, 34, 1);
+}
+#return-to-bottom:hover i {
+    color: #fff;
+    bottom: -25px;
+}

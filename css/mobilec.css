@@ -1,0 +1,17 @@
+@media(min-width: 0px) and (max-width: 970px){
+	#blockdesk{
+		display: none;
+	}
+}
+
+@media(min-width: 971px) and (max-width: 2400px){
+	#blockdesk{
+		position: fixed  !important;
+		width: 100% !important;
+		height: 100% !important;
+		background-color: black !important;
+		z-index: 999999999999999999999999999999999 !important;
+		display: block;
+	}
+}
+

@@ -1,0 +1,142 @@
+
+@media(min-width: 0px) and (max-width: 970px){
+	#chart svg{
+		height: 350px !important;
+
+	}
+	
+	#chart2 svg{
+		height: 350px !important;
+
+	}
+	
+	.tick line {
+	  display: none;
+	}
+	
+	.nv-y text {
+		display: none;
+	}
+}
+
+@media(min-width: 971px) and (max-width: 2400px){
+	#chart svg{
+		height: 400px !important;
+
+	}
+	
+	#chart2 svg{
+		height: 400px !important;
+
+	}
+	
+	.tick line {
+	      stroke: #babbbc !important;
+
+	}
+}
+
+.nvtooltip table {
+    margin: 0px !important;
+    border-spacing:0;
+}
+
+.nvtooltip table td{
+	padding: 10px 10px 10px 10px !important;
+}
+
+svg text {
+    fill: white;
+}
+
+.graphbutton{
+	width: 100%;
+}
+
+.btn-group{
+	display: flex;
+  justify-content: center;
+  margin-top: -25px;
+  margin-bottom: 20px;
+}
+
+@media(min-width: 0px) and (max-width: 970px){
+	.coininfo{		
+		margin-left: 0px !important; 
+		margin-right: 0px !important; 
+		margin-top: 0px !important;
+	}
+	.liner{
+		margin-left: 0px !important; 
+		margin-right: 0px !important; 
+		border-color: #3a90a8 !important;
+	}
+}
+
+@media(min-width: 971px) and (max-width: 2400px){
+	.coininfo{
+		margin-left: 20px !important; 
+		margin-right: 20px !important; 
+		margin-top: 20px !important;
+	}
+	.liner{
+		margin-left: 20px !important; 
+		margin-right: 20px !important; 
+		border-color: lightgrey !important;
+	}
+}
+
+.panel-default{
+	border-color: lightgrey !important;
+	color: white;
+}
+
+.panel-heading{
+	background-color: #3a90a8 !important;
+	border-color: #2e6da4 !important;
+	color: white;
+}
+
+.panel-body{
+	background-color: #0e1115  !important;
+	border-color: #2e6da4 !important;
+	color: white;
+}
+
+hr {
+  border-color: #2e6da4 !important;
+}
+
+.blue_text{
+	color: #11c6dd !important; 
+}
+
+.img-responsive{
+    display: inline-block !important;
+}
+
+.text_over_image {
+	color: white;
+    font-size: 25px;
+font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+}
+
+.text_over_image2 {
+	color: white;
+    font-size: 25px;
+	margin-top: -15px;
+font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+}
+
+.thumbnail {
+    position: relative;
+}
+
+.caption {
+    position: absolute;
+    top: 35%;
+    left: 0;
+    width: 100%;
+}
+
+

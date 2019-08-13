@@ -1,0 +1,168 @@
+.popupt{
+	display: none; 
+	height:100vh; 
+	width:100%; 
+	background-color: rgba(0, 0, 0, 0.7); 
+	position:fixed; z-index:9999999999;  
+	justify-content: center; 
+	align-items: center; 
+}
+
+.popupt2{
+	display: none; 
+	height:100vh; 
+	width:100%; 
+	background-color: rgba(0, 0, 0, 0.7); 
+	position:fixed; z-index:9999999999;  
+	justify-content: center; 
+	align-items: center; 
+}
+
+@media(min-width: 0px) and (max-width: 970px){
+	#desktopremoveall{
+		 visibility: collapse !important;
+	}
+}
+
+@media(min-width: 971px) and (max-width: 2400px){
+	#desktopremoveall{
+		 visibility: visible  !important;
+	}
+}
+
+@media(min-width: 0px) and (max-width: 970px){
+	.innerpopupt{
+		 text-align: center;  border: 5px #33a9ff solid; padding: 40px;  background-color: #010101;
+	}
+}
+
+@media(min-width: 971px) and (max-width: 2400px){
+	.innerpopupt{
+		width: 50%; text-align: center;  border: 5px #33a9ff solid; padding: 40px;  background-color: #010101;
+	}
+}
+
+.titlepopup{
+	background-color: #33a9ff;width: 100%;margin-top: -60px;color:  white; font-size: 24px;
+}
+
+.popup {
+    visibility: hidden;
+}
+
+@media(min-width: 971px) and (max-width: 2400px){
+	/* popup message after adding coin to portfolio */
+.popup {
+    position: fixed;
+    display: inline-block;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+	z-index:9999999999999999;
+	
+     font-size: 16px !important;
+      top: 80%;
+    left: 40%;
+}
+
+/* The actual popup */
+.popup .popuptext {
+    width: 260px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 8px 0;
+    position: absolute;
+    z-index: 1;
+}
+}
+
+@media(min-width: 0px) and (max-width: 970px){
+	/* popup message after adding coin to portfolio */
+.popup {
+    position: fixed;
+    display: inline-block;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+	z-index:9999999999999999;
+	
+     font-size: 16px !important;
+      top: 80%;
+    left: 25%;
+}
+
+.popup .popuptext {
+    width: 160px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 8px 0;
+    position: absolute;
+    z-index: 1;
+}
+}
+
+/* Toggle this class - hide and show the popup */
+.popup .show {
+    visibility: visible;
+    -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+	-webkit-animation-fill-mode: forwards; /* Safari 4.0 - 8.0 */
+animation-fill-mode: forwards;
+}
+
+.popup .noshow {
+    visibility: visible;
+    	-webkit-animation: fadeOut 1s;
+    animation: fadeOut 1s;
+	-webkit-animation-fill-mode: forwards; /* Safari 4.0 - 8.0 */
+animation-fill-mode: forwards;
+}
+
+
+
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+    from {opacity: 0;} 
+    to {opacity: 1;}
+}
+
+@keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity:1 ;}
+}
+
+/* Add animation (fade out the popup) */
+@-webkit-keyframes fadeOut {
+    from {opacity: 1;} 
+    to {opacity: 0;}
+}
+
+@keyframes fadeOut {
+    from {opacity: 1;}
+    to {opacity:0 ;}
+}
+
+/* hide user rows */
+
+
+.hiddent{
+	visibility: collapse;
+}
+
+.btnyes{
+     background-color: #4ab666 !important;
+    border-color: #2d9b4c !important;
+}
+
+.btnot{
+     background-color: #e14747 !important;
+    border-color: #9f2c2c !important;
+}

@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>Cointelegraph.com News</title>
+	<atom:link href="https://cointelegraph.com/rss/" rel="self" type="application/rss+xml" />
+	<link>https://cointelegraph.com</link>
+	<description>Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest news and analyses on the future of money.</description>
+	<generator>cointelegraph.com</generator>
+	<lastBuildDate>Mon, 23 Jul 2018 05:00:01 +0100</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+
+    <image>
+        <title>Cointelegraph.com News</title>
+        <link>https://cointelegraph.com</link>
+        <url>https://cointelegraph.com/assets/img/CT_Logo_YG_tag.png</url>
+        <description>Cointelegraph covers fintech, blockchain and Bitcoin bringing you the latest news and analyses on the future of money.</description>
+    </image>
+	
+	
+                    <item>
+            <title><![CDATA[Chip Manufacturer Cuts Revenue Forecast Due to Weak Demand for Crypto Miners, Again]]></title>
+            <link>https://cointelegraph.com/news/chip-manufacturer-cuts-revenue-forecast-due-to-weak-demand-for-crypto-miners-again</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kNmIxMjcwNzU5NTFjYWU2YjI0Y2RiOGVlMDJlZDkzYS5qcGc=.jpg"  medium="image"  />
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kNmIxMjcwNzU5NTFjYWU2YjI0Y2RiOGVlMDJlZDkzYS5qcGc=.jpg"  length="528" type="image/jpg"/>
+            <pubDate>Fri, 20 Jul 2018 02:20:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Ana Alexandre]]></dc:creator>
+                                                <category><![CDATA[Altcoin]]></category>
+                                                                <category><![CDATA[Bitcoin Mining]]></category>
+                                                                <category><![CDATA[Mining]]></category>
+                                                                <category><![CDATA[Taiwan]]></category>
+                                                                <category><![CDATA[Asia]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/chip-manufacturer-cuts-revenue-forecast-due-to-weak-demand-for-crypto-miners-again</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kNmIxMjcwNzU5NTFjYWU2YjI0Y2RiOGVlMDJlZDkzYS5qcGc=.jpg"><p>Global semiconductor manufacturer TSMC has agained lowered its annual revenue forecast due to slowing demand from cryptocurrency miners</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[HSBC Global Head of Digital Says the Bank Is ‘Cautiously Looking’ at Crypto Investment]]></title>
+            <link>https://cointelegraph.com/news/hsbc-global-head-of-digital-says-the-bank-is-cautiously-looking-at-crypto-investment</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zM2U0NTMzZGFmYTE0OGE1NGIxNjRjNjFhZGIyMDBkZC5qcGc=.jpg"  medium="image"  />
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zM2U0NTMzZGFmYTE0OGE1NGIxNjRjNjFhZGIyMDBkZC5qcGc=.jpg"  length="528" type="image/jpg"/>
+            <pubDate>Fri, 20 Jul 2018 00:17:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Ana Alexandre]]></dc:creator>
+                                                <category><![CDATA[Altcoin]]></category>
+                                                                <category><![CDATA[Cryptocurrencies]]></category>
+                                                                <category><![CDATA[Banks]]></category>
+                                                                <category><![CDATA[Investments]]></category>
+                                                                <category><![CDATA[Adoption]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/hsbc-global-head-of-digital-says-the-bank-is-cautiously-looking-at-crypto-investment</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zM2U0NTMzZGFmYTE0OGE1NGIxNjRjNjFhZGIyMDBkZC5qcGc=.jpg"><p>HSBC's Global Head Of Digital said that at this stage the bank does not recognize crypto as a genuine investment asset, but is “cautiously looking”</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[2018 Crypto Investment Report: Institutional Investors Provide 56% of Capital Inflow]]></title>
+            <link>https://cointelegraph.com/news/2018-crypto-investment-report-institutional-investors-provide-56-of-capital-inflow</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85OGM3NTJjNjdkODc2N2EzNzgzNjlhM2U1NmMyNzdiMy5qcGc=.jpg"  medium="image"  />
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85OGM3NTJjNjdkODc2N2EzNzgzNjlhM2U1NmMyNzdiMy5qcGc=.jpg"  length="528" type="image/jpg"/>
+            <pubDate>Thu, 19 Jul 2018 12:19:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Marie Huillet ]]></dc:creator>
+                                                <category><![CDATA[Altcoin]]></category>
+                                                                <category><![CDATA[Investments]]></category>
+                                                                <category><![CDATA[Zcash]]></category>
+                                                                <category><![CDATA[Ethereum Classic]]></category>
+                                                                <category><![CDATA[Cryptocurrencies]]></category>
+                                                                <category><![CDATA[Wall Street]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/2018-crypto-investment-report-institutional-investors-provide-56-of-capital-inflow</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85OGM3NTJjNjdkODc2N2EzNzgzNjlhM2U1NmMyNzdiMy5qcGc=.jpg"><p>The first-ever investment report released by major crypto fund Grayscale Investments reveals that 56% of capital inflow this year is from institutional investors</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[US House Hearing: Crypto Presents a Challenge Beyond Hard and Fast Asset Classifications]]></title>
+            <link>https://cointelegraph.com/news/crypto-presents-a-challenge-beyond-hard-and-fast-asset-classifications-say-speakers-at-us-house-committee-hearing</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lMWVlYjZkZGM4ZTQwODQ1OGY4NDNiNDUzMTM4ZmRhOS5qcGc=.jpg"  medium="image"  />
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lMWVlYjZkZGM4ZTQwODQ1OGY4NDNiNDUzMTM4ZmRhOS5qcGc=.jpg"  length="528" type="image/jpg"/>
+            <pubDate>Wed, 18 Jul 2018 19:31:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Marie Huillet ]]></dc:creator>
+                                                <category><![CDATA[Altcoin]]></category>
+                                                                <category><![CDATA[USA]]></category>
+                                                                <category><![CDATA[Cryptocurrencies]]></category>
+                                                                <category><![CDATA[SEC]]></category>
+                                                                <category><![CDATA[CFTC]]></category>
+                                                                <category><![CDATA[Russia]]></category>
+                                                                <category><![CDATA[Goldman Sachs]]></category>
+                                                                <category><![CDATA[Andreessen Horowitz]]></category>
+                                                                <category><![CDATA[Ethereum]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/crypto-presents-a-challenge-beyond-hard-and-fast-asset-classifications-say-speakers-at-us-house-committee-hearing</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lMWVlYjZkZGM4ZTQwODQ1OGY4NDNiNDUzMTM4ZmRhOS5qcGc=.jpg"><p>Witnesses at the a hearing before the U.S. House of Agriculture Committee today argued that digital assets require an agile regulatory approach because of their mutability</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Bitcoin Above $7,000 as Positive Momentum Continues Following Yesterday's Market Upswing]]></title>
+            <link>https://cointelegraph.com/news/bitcoin-above-7-000-as-positive-momentum-continues-following-yesterday-s-market-upswing</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83OTk4YzdlYTQyNGY3ZDk1MzNkMjEwMTViYzQwODJiNy5qcGc=.jpg"  medium="image"  />
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83OTk4YzdlYTQyNGY3ZDk1MzNkMjEwMTViYzQwODJiNy5qcGc=.jpg"  length="528" type="image/jpg"/>
+            <pubDate>Tue, 17 Jul 2018 19:10:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Marie Huillet ]]></dc:creator>
+                                                <category><![CDATA[Altcoin]]></category>
+                                                                <category><![CDATA[Markets]]></category>
+                                                                <category><![CDATA[Cryptocurrencies.Bitcoin Price]]></category>
+                                                                <category><![CDATA[Ethereum Price]]></category>
+                                                                <category><![CDATA[Ethereum]]></category>
+                                                                <category><![CDATA[Stellar]]></category>
+                                                                <category><![CDATA[Cardano]]></category>
+                                                                <category><![CDATA[IOTA]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/bitcoin-above-7-000-as-positive-momentum-continues-following-yesterday-s-market-upswing</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83OTk4YzdlYTQyNGY3ZDk1MzNkMjEwMTViYzQwODJiNy5qcGc=.jpg"><p>Crypto markets are mostly continuing to build on a major upswing that kicked off yesterday, with virtually all of the top ten coins by market cap seeing ongoing growth</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Robinhood Adds Support for Dogecoin on Its Crypto Platform]]></title>
+            <link>https://cointelegraph.com/news/robinhood-adds-support-for-dogecoin-on-its-crypto-platform</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zODhmYWMyNGRmMTQ0NjBjZWJkM2M5YjM3ZTQyMzgwNi5qcGc=.jpg"  medium="image"  />
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zODhmYWMyNGRmMTQ0NjBjZWJkM2M5YjM3ZTQyMzgwNi5qcGc=.jpg"  length="528" type="image/jpg"/>
+            <pubDate>Tue, 17 Jul 2018 04:28:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Ana Alexandre]]></dc:creator>
+                                                <category><![CDATA[Altcoin]]></category>
+                                                                <category><![CDATA[Cryptocurrencies]]></category>
+                                                                <category><![CDATA[Dogecoin]]></category>
+                                                                <category><![CDATA[Cryptocurrency Exchange]]></category>
+                                                                <category><![CDATA[USA]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/robinhood-adds-support-for-dogecoin-on-its-crypto-platform</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zODhmYWMyNGRmMTQ0NjBjZWJkM2M5YjM3ZTQyMzgwNi5qcGc=.jpg"><p>Financial service mobile app Robinhood has added support for Dogecoin on its crypto trading platform, following its recent extension to Litecoin and Bitcoin Cash</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Bitcoin, Ethereum, Ripple, Bitcoin Cash, EOS, Litecoin, Cardano, Stellar, IOTA, TRON: Price Analysis, July 16]]></title>
+            <link>https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-litecoin-cardano-stellar-iota-tron-price-analysis-july-16</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hMzY3Nzk3YjRkMzI3ZTUwZDgwN2JlYjI0ZDM2MDIxOS5qcGc=.jpg"  medium="image"  />
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hMzY3Nzk3YjRkMzI3ZTUwZDgwN2JlYjI0ZDM2MDIxOS5qcGc=.jpg"  length="528" type="image/jpg"/>
+            <pubDate>Mon, 16 Jul 2018 22:26:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Rakesh Upadhyay]]></dc:creator>
+                                                <category><![CDATA[Altcoin]]></category>
+                                                                <category><![CDATA[Ethereum]]></category>
+                                                                <category><![CDATA[Ripple]]></category>
+                                                                <category><![CDATA[Bitcoin Cash]]></category>
+                                                                <category><![CDATA[EOS]]></category>
+                                                                <category><![CDATA[Litecoin]]></category>
+                                                                <category><![CDATA[Cardano]]></category>
+                                                                <category><![CDATA[Stellar]]></category>
+                                                                <category><![CDATA[IOTA]]></category>
+                                                                <category><![CDATA[TRON]]></category>
+                                                                <category><![CDATA[Bitcoin Price]]></category>
+                                                                <category><![CDATA[Price Analysis]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-litecoin-cardano-stellar-iota-tron-price-analysis-july-16</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9hMzY3Nzk3YjRkMzI3ZTUwZDgwN2JlYjI0ZDM2MDIxOS5qcGc=.jpg"><p>What cryptocurrencies have bottomed out? See the latest price analysis to find out</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[EOS Developer Block.One Secures Investments from PayPal's Peter Thiel, Bitmain's Jihan Wu]]></title>
+            <link>https://cointelegraph.com/news/eos-developer-block-one-secures-investments-from-paypal-s-peter-thiel-bitmain-s-jihan-wu</link>
+            <media:content url="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yNGYwYzVjZmZiMTZmNjMzYjI3Mjc5MDM4M2YyNDAzZC5qcGc=.jpg"  medium="image"  />
+            <enclosure url="http://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yNGYwYzVjZmZiMTZmNjMzYjI3Mjc5MDM4M2YyNDAzZC5qcGc=.jpg"  length="528" type="image/jpg"/>
+            <pubDate>Mon, 16 Jul 2018 16:54:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Marie Huillet ]]></dc:creator>
+                                                <category><![CDATA[Altcoin]]></category>
+                                                                <category><![CDATA[EOS]]></category>
+                                                                <category><![CDATA[Bitmain]]></category>
+                                                                <category><![CDATA[Investments]]></category>
+                                                                <category><![CDATA[PayPal]]></category>
+                                                                <category><![CDATA[Peter Thiel]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/eos-developer-block-one-secures-investments-from-paypal-s-peter-thiel-bitmain-s-jihan-wu</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yNGYwYzVjZmZiMTZmNjMzYjI3Mjc5MDM4M2YyNDAzZC5qcGc=.jpg"><p>EOS developer Block.one has closed investments from billionaire PayPal co-founder Peter Thiel and Bitmain billionaire Jihan Wu</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Coinbase Announces Five Possible New Assets, Makes No Guarantees For Trade Listing]]></title>
+            <link>https://cointelegraph.com/news/coinbase-announces-five-possible-new-assets-makes-no-guarantees-for-trade-listing</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy80YjllZmQ1OGQ5OGNjZjViZjFlZDg2OTlmZjc0MWUxNC5qcGc=.jpg"  medium="image"  />
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy80YjllZmQ1OGQ5OGNjZjViZjFlZDg2OTlmZjc0MWUxNC5qcGc=.jpg"  length="528" type="image/jpg"/>
+            <pubDate>Sat, 14 Jul 2018 02:07:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Ana Alexandre]]></dc:creator>
+                                                <category><![CDATA[Altcoin]]></category>
+                                                                <category><![CDATA[Coinbase]]></category>
+                                                                <category><![CDATA[Cryptocurrencies]]></category>
+                                                                <category><![CDATA[Cryptocurrency Exchange]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/coinbase-announces-five-possible-new-assets-makes-no-guarantees-for-trade-listing</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy80YjllZmQ1OGQ5OGNjZjViZjFlZDg2OTlmZjc0MWUxNC5qcGc=.jpg"><p>Coinbase is considering the addition of five new assets to its exchange and will negotiate with local banks and regulators to add them to different jurisdictions</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Texas State Securities Board Issues Cease and Desist Order to Crypto Promoters]]></title>
+            <link>https://cointelegraph.com/news/texas-state-securities-board-issues-cease-and-desist-order-to-crypto-promoters</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jYzRhYzZiNDY2MmIyMjAzMjQ2MzhhNmI2NTQwMjQ4OS5qcGc=.jpg"  medium="image"  />
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jYzRhYzZiNDY2MmIyMjAzMjQ2MzhhNmI2NTQwMjQ4OS5qcGc=.jpg"  length="528" type="image/jpg"/>
+            <pubDate>Fri, 13 Jul 2018 23:32:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Helen Partz]]></dc:creator>
+                                                <category><![CDATA[Altcoin]]></category>
+                                                                <category><![CDATA[Cryptocurrencies]]></category>
+                                                                <category><![CDATA[ICO]]></category>
+                                                                <category><![CDATA[Government]]></category>
+                                                                <category><![CDATA[Investments]]></category>
+                                                                <category><![CDATA[Bitconnect]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/texas-state-securities-board-issues-cease-and-desist-order-to-crypto-promoters</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jYzRhYzZiNDY2MmIyMjAzMjQ2MzhhNmI2NTQwMjQ4OS5qcGc=.jpg"><p>The Texas State Securities Board has recently taken emergency action against a network of fraudulent crypto-related firms</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Bitcoin, Ethereum, Ripple, Bitcoin Cash, EOS, Litecoin, Cardano, Stellar, IOTA, TRON: Price Analysis, July 13]]></title>
+            <link>https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-litecoin-cardano-stellar-iota-tron-price-analysis-july-13</link>
+            <media:content url="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wYzBjNjc5OGIxMjc2NjBjNjFlZjBkNDBjZDIwNGUwZi5qcGc=.jpg"  medium="image"  />
+            <enclosure url="http://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wYzBjNjc5OGIxMjc2NjBjNjFlZjBkNDBjZDIwNGUwZi5qcGc=.jpg"  length="528" type="image/jpg"/>
+            <pubDate>Fri, 13 Jul 2018 20:30:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Rakesh Upadhyay]]></dc:creator>
+                                                <category><![CDATA[Altcoin]]></category>
+                                                                <category><![CDATA[Ethereum]]></category>
+                                                                <category><![CDATA[Ripple]]></category>
+                                                                <category><![CDATA[Bitcoin Cash]]></category>
+                                                                <category><![CDATA[EOS]]></category>
+                                                                <category><![CDATA[Litecoin]]></category>
+                                                                <category><![CDATA[Cardano]]></category>
+                                                                <category><![CDATA[Stellar]]></category>
+                                                                <category><![CDATA[IOTA]]></category>
+                                                                <category><![CDATA[TRON]]></category>
+                                                                <category><![CDATA[Bitcoin Price]]></category>
+                                                                <category><![CDATA[Price Analysis]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-litecoin-cardano-stellar-iota-tron-price-analysis-july-13</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8wYzBjNjc5OGIxMjc2NjBjNjFlZjBkNDBjZDIwNGUwZi5qcGc=.jpg"><p>As some retail investors are leaving crypto, large institutional players are moving in, as they see value around the current price levels. Do the charts support their sentiment?</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Tether Appoints BMO Anti-Money Laundering Manager as Chief Compliance Officer]]></title>
+            <link>https://cointelegraph.com/news/tether-appoints-bmo-anti-money-laundering-manager-as-chief-compliance-officer</link>
+            <media:content url="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83ZDYyMzRhOGI0MTg4MWU2Mzk3ODgzOGYzYmJhNWM4OC5qcGc=.jpg"  medium="image"  />
+            <enclosure url="http://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83ZDYyMzRhOGI0MTg4MWU2Mzk3ODgzOGYzYmJhNWM4OC5qcGc=.jpg"  length="528" type="image/jpg"/>
+            <pubDate>Fri, 13 Jul 2018 03:19:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Ana Alexandre]]></dc:creator>
+                                                <category><![CDATA[Altcoin]]></category>
+                                                                <category><![CDATA[Tether]]></category>
+                                                                <category><![CDATA[Banks]]></category>
+                                                                <category><![CDATA[Cryptocurrencies]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/tether-appoints-bmo-anti-money-laundering-manager-as-chief-compliance-officer</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83ZDYyMzRhOGI0MTg4MWU2Mzk3ODgzOGYzYmJhNWM4OC5qcGc=.jpg"><p>Tether has appointed a former Bank of Montreal anti-money laundering manager to lead its regulatory compliance program</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[League of Legends Philippines Removes ‘Cryptojacking’ Code From Its Client]]></title>
+            <link>https://cointelegraph.com/news/league-of-legends-philippines-removes-cryptojacking-code-from-its-client</link>
+            <media:content url="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85MDNhNzQ4ZDllMTVjNTdkNTNjNmM4MDRiNmFmZmIyZS5qcGc=.jpg"  medium="image"  />
+            <enclosure url="http://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85MDNhNzQ4ZDllMTVjNTdkNTNjNmM4MDRiNmFmZmIyZS5qcGc=.jpg"  length="528" type="image/jpg"/>
+            <pubDate>Thu, 12 Jul 2018 22:30:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Helen Partz]]></dc:creator>
+                                                <category><![CDATA[Altcoin]]></category>
+                                                                <category><![CDATA[Malware]]></category>
+                                                                <category><![CDATA[Mining]]></category>
+                                                                <category><![CDATA[Security]]></category>
+                                                                <category><![CDATA[Philippines]]></category>
+                                                                <category><![CDATA[Monero]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/league-of-legends-philippines-removes-cryptojacking-code-from-its-client</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85MDNhNzQ4ZDllMTVjNTdkNTNjNmM4MDRiNmFmZmIyZS5qcGc=.jpg"><p>League of Legends Philippines has removed crypto-mining malware from its Garena client after two days of the attack</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Robinhood’s Zero-Fee Crypto Trading Platform Adds Support for Litecoin, Bitcoin Cash]]></title>
+            <link>https://cointelegraph.com/news/robinhood-s-zero-fee-crypto-trading-platform-adds-support-for-litecoin-bitcoin-cash</link>
+            <media:content url="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iNDgyZWZjNjI0MzUxMmU0MmVjNGQzMzMxNTY1NzZlMi5qcGc=.jpg"  medium="image"  />
+            <enclosure url="http://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iNDgyZWZjNjI0MzUxMmU0MmVjNGQzMzMxNTY1NzZlMi5qcGc=.jpg"  length="528" type="image/jpg"/>
+            <pubDate>Thu, 12 Jul 2018 18:40:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Molly Jane Zuckerman]]></dc:creator>
+                                                <category><![CDATA[Altcoin]]></category>
+                                                                <category><![CDATA[Litecoin]]></category>
+                                                                <category><![CDATA[Bitcoin Cash]]></category>
+                                                                <category><![CDATA[Bitcoin News]]></category>
+                                                                <category><![CDATA[Ethereum]]></category>
+                                                                <category><![CDATA[USA]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/robinhood-s-zero-fee-crypto-trading-platform-adds-support-for-litecoin-bitcoin-cash</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iNDgyZWZjNjI0MzUxMmU0MmVjNGQzMzMxNTY1NzZlMi5qcGc=.jpg"><p>The crypto platform from financial services app Robinhood now supports LTC and BCH</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Kaspersky Lab: $10 Mln in Ethereum Stolen Over Past Year via Social Engineering Tricks]]></title>
+            <link>https://cointelegraph.com/news/kaspersky-lab-10-mln-in-ethereum-stolen-over-past-year-via-social-engineering-tricks</link>
+            <media:content url="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lZDJiOTIxODZjM2YxMzI0ZmJiYmY4ZjgxOWU3MDliOS5qcGc=.jpg"  medium="image"  />
+            <enclosure url="http://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lZDJiOTIxODZjM2YxMzI0ZmJiYmY4ZjgxOWU3MDliOS5qcGc=.jpg"  length="528" type="image/jpg"/>
+            <pubDate>Thu, 12 Jul 2018 17:22:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Markus Kasanmascheff]]></dc:creator>
+                                                <category><![CDATA[Altcoin]]></category>
+                                                                <category><![CDATA[Ethereum]]></category>
+                                                                <category><![CDATA[Cryptocurrencies]]></category>
+                                                                <category><![CDATA[Kaspersky Lab]]></category>
+                                                                <category><![CDATA[Scams]]></category>
+                                                                <category><![CDATA[ICO]]></category>
+                                                                <category><![CDATA[Malware]]></category>
+                                                                <category><![CDATA[Telegram]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/kaspersky-lab-10-mln-in-ethereum-stolen-over-past-year-via-social-engineering-tricks</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lZDJiOTIxODZjM2YxMzI0ZmJiYmY4ZjgxOWU3MDliOS5qcGc=.jpg"><p>Security experts at Kaspersky Lab report that online crypto scammers target those interested in ICOs, using phishing emails and fake Twitter giveaways to attract victims</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[GPU Prices Fall Following Slump in Cryptocurrency Markets]]></title>
+            <link>https://cointelegraph.com/news/gpu-prices-fall-following-slump-in-cryptocurrency-markets</link>
+            <media:content url="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9mMDJjZGNmMTI2MjAzYWZhNjg2MmM4NGRlODM5NDBhNi5qcGc=.jpg"  medium="image"  />
+            <enclosure url="http://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9mMDJjZGNmMTI2MjAzYWZhNjg2MmM4NGRlODM5NDBhNi5qcGc=.jpg"  length="528" type="image/jpg"/>
+            <pubDate>Thu, 12 Jul 2018 03:22:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Ana Alexandre]]></dc:creator>
+                                                <category><![CDATA[Altcoin]]></category>
+                                                                <category><![CDATA[Cryptocurrencies]]></category>
+                                                                <category><![CDATA[Mining]]></category>
+                                                                <category><![CDATA[AMD]]></category>
+                                                                <category><![CDATA[Nvidia]]></category>
+                                                                <category><![CDATA[Bitmain]]></category>
+                                                                <category><![CDATA[GPU]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/gpu-prices-fall-following-slump-in-cryptocurrency-markets</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9mMDJjZGNmMTI2MjAzYWZhNjg2MmM4NGRlODM5NDBhNi5qcGc=.jpg"><p>GPU prices have been declining following a sharp price drop of virtual currency prices during the first half of 2018</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Crypto Markets Slightly Down, EOS Sees Some of Biggest Losses]]></title>
+            <link>https://cointelegraph.com/news/crypto-markets-slightly-down-eos-sees-some-of-biggest-losses</link>
+            <media:content url="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83ZGZjMzdjNjJlNjRkMDgyMTViYTNjMjA2MTRmZmIyOC5qcGc=.jpg"  medium="image"  />
+            <enclosure url="http://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83ZGZjMzdjNjJlNjRkMDgyMTViYTNjMjA2MTRmZmIyOC5qcGc=.jpg"  length="528" type="image/jpg"/>
+            <pubDate>Wed, 11 Jul 2018 20:59:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Helen Partz]]></dc:creator>
+                                                <category><![CDATA[Altcoin]]></category>
+                                                                <category><![CDATA[Bitcoin Price]]></category>
+                                                                <category><![CDATA[Ethereum News]]></category>
+                                                                <category><![CDATA[Markets]]></category>
+                                                                <category><![CDATA[Cryptocurrencies]]></category>
+                                                                <category><![CDATA[EOS]]></category>
+                                                                <category><![CDATA[Litecoin]]></category>
+                                                                <category><![CDATA[Tezos]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/crypto-markets-slightly-down-eos-sees-some-of-biggest-losses</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83ZGZjMzdjNjJlNjRkMDgyMTViYTNjMjA2MTRmZmIyOC5qcGc=.jpg"><p>Crypto markets are experiencing the second day of losses with Bitcoin hovering between $6,300 and $6,400</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Ethereum’s Joe Lubin: ‘We’re Moving Towards a World of Decentralized Governance’]]></title>
+            <link>https://cointelegraph.com/news/ethereum-s-joe-lubin-we-re-moving-towards-a-world-of-decentralized-governance</link>
+            <media:content url="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jOTg2YjQ2OWY1NGI1YTRiMzRiZjRkMWMwZWYxMWM0YS5qcGc=.jpg"  medium="image"  />
+            <enclosure url="http://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jOTg2YjQ2OWY1NGI1YTRiMzRiZjRkMWMwZWYxMWM0YS5qcGc=.jpg"  length="528" type="image/jpg"/>
+            <pubDate>Wed, 11 Jul 2018 17:20:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Marie Huillet ]]></dc:creator>
+                                                <category><![CDATA[Altcoin]]></category>
+                                                                <category><![CDATA[Ethereum]]></category>
+                                                                <category><![CDATA[Joseph Lubin]]></category>
+                                                                <category><![CDATA[Decentralization]]></category>
+                                                                <category><![CDATA[Cryptocurrencies]]></category>
+                                                                <category><![CDATA[Adoption]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/ethereum-s-joe-lubin-we-re-moving-towards-a-world-of-decentralized-governance</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jOTg2YjQ2OWY1NGI1YTRiMzRiZjRkMWMwZWYxMWM0YS5qcGc=.jpg"><p>Rise conference Hong Kong 2018: Joe Lubin, Mike Novogratz, other leading crypto industry figures weigh in on the major implications of cryptocurrencies for the global economy</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Litecoin Foundation Partners With TokenPay to Acquire 10% Stake in German Bank]]></title>
+            <link>https://cointelegraph.com/news/litecoin-foundation-partners-with-tokenpay-to-acquire-10-stake-in-german-bank</link>
+            <media:content url="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yMzdjZjc2NTEzOWVjNzRmM2RhOGQ2ZWI2OWMxNzY1Mi5qcGc=.jpg"  medium="image"  />
+            <enclosure url="http://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yMzdjZjc2NTEzOWVjNzRmM2RhOGQ2ZWI2OWMxNzY1Mi5qcGc=.jpg"  length="528" type="image/jpg"/>
+            <pubDate>Wed, 11 Jul 2018 13:15:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Marie Huillet ]]></dc:creator>
+                                                <category><![CDATA[Altcoin]]></category>
+                                                                <category><![CDATA[Litecoin]]></category>
+                                                                <category><![CDATA[Germany]]></category>
+                                                                <category><![CDATA[Banks]]></category>
+                                                                <category><![CDATA[Cryptocurrencies]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/litecoin-foundation-partners-with-tokenpay-to-acquire-10-stake-in-german-bank</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yMzdjZjc2NTEzOWVjNzRmM2RhOGQ2ZWI2OWMxNzY1Mi5qcGc=.jpg"><p>The Litecoin Foundation has now acquired a 9.9% stake in Germany’s WEG Bank AG, as a result of a new strategic partnership with crypto-fiat payments firm TokenPay</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Google Co-Founder Sergey Brin Reveals He Is an Ethereum Miner]]></title>
+            <link>https://cointelegraph.com/news/google-co-founder-sergey-brin-reveals-he-is-an-ethereum-miner</link>
+            <media:content url="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83YTMwN2IwMzA4ZGVmZDcyYzhiYmYyZmNmNzZjMmZmMS5qcGc=.jpg"  medium="image"  />
+            <enclosure url="http://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83YTMwN2IwMzA4ZGVmZDcyYzhiYmYyZmNmNzZjMmZmMS5qcGc=.jpg"  length="528" type="image/jpg"/>
+            <pubDate>Tue, 10 Jul 2018 19:52:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Marie Huillet ]]></dc:creator>
+                                                <category><![CDATA[Altcoin]]></category>
+                                                                <category><![CDATA[Google]]></category>
+                                                                <category><![CDATA[Mining]]></category>
+                                                                <category><![CDATA[Cryptocurrencies]]></category>
+                                                                <category><![CDATA[Ethereum]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/google-co-founder-sergey-brin-reveals-he-is-an-ethereum-miner</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83YTMwN2IwMzA4ZGVmZDcyYzhiYmYyZmNmNzZjMmZmMS5qcGc=.jpg"><p>Google’s co-founder Sergey Brin has made the surprise revelation that he is an Ethereum miner, saying he believes that the crypto global network is “extraordinary”</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Crypto Markets Take Deep Plunge, Market Cap Back to Monthly Lows]]></title>
+            <link>https://cointelegraph.com/news/crypto-markets-take-deep-plunge-market-cap-back-to-monthly-lows</link>
+            <media:content url="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85NWNjNTMyZGE1OWExOGUzYzZlNThhMTZjZTFiNjkwNS5qcGc=.jpg"  medium="image"  />
+            <enclosure url="http://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85NWNjNTMyZGE1OWExOGUzYzZlNThhMTZjZTFiNjkwNS5qcGc=.jpg"  length="528" type="image/jpg"/>
+            <pubDate>Tue, 10 Jul 2018 17:15:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Helen Partz]]></dc:creator>
+                                                <category><![CDATA[Altcoin]]></category>
+                                                                <category><![CDATA[Markets]]></category>
+                                                                <category><![CDATA[Bitcoin Price]]></category>
+                                                                <category><![CDATA[Ethereum]]></category>
+                                                                <category><![CDATA[Cryptocurrencies]]></category>
+                                                                <category><![CDATA[Tezos]]></category>
+                                                                <category><![CDATA[NEO]]></category>
+                                                                <category><![CDATA[IOTA]]></category>
+                                                                <category><![CDATA[Cardano]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/crypto-markets-take-deep-plunge-market-cap-back-to-monthly-lows</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85NWNjNTMyZGE1OWExOGUzYzZlNThhMTZjZTFiNjkwNS5qcGc=.jpg"><p>Crypto markets have taken a deep plunge after ten days of somewhat stable growth, Bitcoin is back to around $6,400</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Ethereum's Joe Lubin: We're Moving Into Phase Two of ETH Blockchain ‘This Year’]]></title>
+            <link>https://cointelegraph.com/news/ethereum-s-joe-lubin-we-re-moving-into-phase-two-of-eth-blockchain-this-year</link>
+            <media:content url="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jNWZiNzA3NTNkMmJiNTMxMjVhNTI2ZWUzNDIzZmFmNS5qcGc=.jpg"  medium="image"  />
+            <enclosure url="http://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jNWZiNzA3NTNkMmJiNTMxMjVhNTI2ZWUzNDIzZmFmNS5qcGc=.jpg"  length="528" type="image/jpg"/>
+            <pubDate>Tue, 10 Jul 2018 15:10:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Marie Huillet ]]></dc:creator>
+                                                <category><![CDATA[Altcoin]]></category>
+                                                                <category><![CDATA[Ethereum]]></category>
+                                                                <category><![CDATA[Joseph Lubin]]></category>
+                                                                <category><![CDATA[Cryptocurrencies]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/ethereum-s-joe-lubin-we-re-moving-into-phase-two-of-eth-blockchain-this-year</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jNWZiNzA3NTNkMmJiNTMxMjVhNTI2ZWUzNDIzZmFmNS5qcGc=.jpg"><p>Ethereum’s Joseph Lubin says that with the fundamental “layer one” in the Ethereum ecosystem now established, 2018 will see “layer two” systems ramify and mature</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Crypto Markets Seeing Red, Total Market Cap Down Almost $15 Bln]]></title>
+            <link>https://cointelegraph.com/news/crypto-markets-seeing-red-total-market-cap-down-almost-15-bln</link>
+            <media:content url="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kMGQ0ZjBlZGJhM2NmYWE3MzUzMjg1YjU0YjYxNjliZS5qcGc=.jpg"  medium="image"  />
+            <enclosure url="http://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kMGQ0ZjBlZGJhM2NmYWE3MzUzMjg1YjU0YjYxNjliZS5qcGc=.jpg"  length="528" type="image/jpg"/>
+            <pubDate>Tue, 10 Jul 2018 04:32:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Helen Partz]]></dc:creator>
+                                                <category><![CDATA[Bitcoin]]></category>
+                                                                <category><![CDATA[Bitcoin Price]]></category>
+                                                                <category><![CDATA[Ethereum]]></category>
+                                                                <category><![CDATA[Markets]]></category>
+                                                                <category><![CDATA[Cryptocurrencies]]></category>
+                                                                <category><![CDATA[Altcoin]]></category>
+                                                                <category><![CDATA[EOS]]></category>
+                                                                <category><![CDATA[Tezos]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/crypto-markets-seeing-red-total-market-cap-down-almost-15-bln</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9kMGQ0ZjBlZGJhM2NmYWE3MzUzMjg1YjU0YjYxNjliZS5qcGc=.jpg"><p>Crypto markets are in the red today, with total market capitalization down almost $15 billion from yesterday’s high</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Exclusive: Following ‘Security Breach,’ Bancor Expects to Be Online in 24 Hours]]></title>
+            <link>https://cointelegraph.com/news/exclusive-following-security-breach-bancor-expects-to-be-online-in-24-hours</link>
+            <media:content url="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy81OWRiY2FmZmNjOGE1MTBkMzhjNThhYWI2ODIyM2FjMS5qcGc=.jpg"  medium="image"  />
+            <enclosure url="http://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy81OWRiY2FmZmNjOGE1MTBkMzhjNThhYWI2ODIyM2FjMS5qcGc=.jpg"  length="528" type="image/jpg"/>
+            <pubDate>Tue, 10 Jul 2018 00:59:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Ana Alexandre]]></dc:creator>
+                                                <category><![CDATA[Altcoin]]></category>
+                                                                <category><![CDATA[Cryptocurrency Exchange]]></category>
+                                                                <category><![CDATA[Hackers]]></category>
+                                                                <category><![CDATA[Blockchain]]></category>
+                                                                <category><![CDATA[Crimes]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/exclusive-following-security-breach-bancor-expects-to-be-online-in-24-hours</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy81OWRiY2FmZmNjOGE1MTBkMzhjNThhYWI2ODIyM2FjMS5qcGc=.jpg"><p>Following a security breach, decentralized crypto exchange Bancor said it expects to come back online within 24 hours</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Bitcoin, Ethereum, Ripple, Bitcoin Cash, EOS, Litecoin, Cardano, Stellar, IOTA, NEO: Price Analysis, July 09]]></title>
+            <link>https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-litecoin-cardano-stellar-iota-neo-price-analysis-july-09</link>
+            <media:content url="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lMWIyYWYwOWY4OWUyM2QwYmMzMjQxYTU5MzlmNzBjOS5qcGc=.jpg"  medium="image"  />
+            <enclosure url="http://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lMWIyYWYwOWY4OWUyM2QwYmMzMjQxYTU5MzlmNzBjOS5qcGc=.jpg"  length="528" type="image/jpg"/>
+            <pubDate>Mon, 09 Jul 2018 19:40:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Rakesh Upadhyay]]></dc:creator>
+                                                <category><![CDATA[Altcoin]]></category>
+                                                                <category><![CDATA[Ethereum]]></category>
+                                                                <category><![CDATA[Ripple]]></category>
+                                                                <category><![CDATA[Bitcoin Cash]]></category>
+                                                                <category><![CDATA[EOS]]></category>
+                                                                <category><![CDATA[Litecoin]]></category>
+                                                                <category><![CDATA[Cardano]]></category>
+                                                                <category><![CDATA[Stellar]]></category>
+                                                                <category><![CDATA[IOTA]]></category>
+                                                                <category><![CDATA[NEO]]></category>
+                                                                <category><![CDATA[Bitcoin Price]]></category>
+                                                                <category><![CDATA[Ethereum Price]]></category>
+                                                                <category><![CDATA[Price Analysis]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-litecoin-cardano-stellar-iota-neo-price-analysis-july-09</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9lMWIyYWYwOWY4OWUyM2QwYmMzMjQxYTU5MzlmNzBjOS5qcGc=.jpg"><p>Even despite pressure from China and India - which comprise 35 percent of the global population - cryptocurrencies are bouncing off their lows. Which coins are confirming a bottom? Let’s check the charts</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Decentralized Crypto Exchange Bancor Reports ‘Security Breach,’ Remains Down for ‘Maintenance’]]></title>
+            <link>https://cointelegraph.com/news/decentralized-crypto-exchange-bancor-reports-security-breach-remains-down-for-maintenance</link>
+            <media:content url="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy81NDAyMDE4NzRlOGEzYWQzYzM5MGExMDA1NWFlYjVjYy5qcGc=.jpg"  medium="image"  />
+            <enclosure url="http://images.cointelegraph.com/images/528_aHR0cHM6Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy81NDAyMDE4NzRlOGEzYWQzYzM5MGExMDA1NWFlYjVjYy5qcGc=.jpg"  length="528" type="image/jpg"/>
+            <pubDate>Mon, 09 Jul 2018 17:45:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By William Suberg]]></dc:creator>
+                                                <category><![CDATA[Altcoin]]></category>
+                                                                <category><![CDATA[Hackers]]></category>
+                                                                <category><![CDATA[Changelly]]></category>
+                                                                <category><![CDATA[Cryptocurrency Exchange]]></category>
+                                                                <category><![CDATA[Ethereum]]></category>
+                                                                <category><![CDATA[Bancor]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/decentralized-crypto-exchange-bancor-reports-security-breach-remains-down-for-maintenance</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_aHR0cHM6Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy81NDAyMDE4NzRlOGEzYWQzYzM5MGExMDA1NWFlYjVjYy5qcGc=.jpg"><p>Decentralized cryptocurrency exchange Bancor reports “security breach,” receives help in freezing funds from fellow crypto service Changelly</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Bitcoin vs Altcoins: Which Cryptocurrency Is the Most Usable as Money?]]></title>
+            <link>https://cointelegraph.com/news/bitcoin-vs-altcoins-which-cryptocurrency-is-the-most-usable-as-money</link>
+            <media:content url="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iZjNhMWI1OTg0MWQ3NWE0NGRmYTgxMzAxMWRkYWUwMC5qcGc=.jpg"  medium="image"  />
+            <enclosure url="http://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iZjNhMWI1OTg0MWQ3NWE0NGRmYTgxMzAxMWRkYWUwMC5qcGc=.jpg"  length="528" type="image/jpg"/>
+            <pubDate>Mon, 09 Jul 2018 07:45:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Simon Chandler]]></dc:creator>
+                                                <category><![CDATA[Altcoin]]></category>
+                                                                <category><![CDATA[Cryptocurrencies]]></category>
+                                                                <category><![CDATA[Payments]]></category>
+                                                                <category><![CDATA[Bitcoin Adoption]]></category>
+                                                                <category><![CDATA[Bitcoin Cash]]></category>
+                                                                <category><![CDATA[Litecoin]]></category>
+                                                                <category><![CDATA[Ripple]]></category>
+                                                                <category><![CDATA[Lightning Network]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/bitcoin-vs-altcoins-which-cryptocurrency-is-the-most-usable-as-money</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9iZjNhMWI1OTg0MWQ3NWE0NGRmYTgxMzAxMWRkYWUwMC5qcGc=.jpg"><p>Bitcoin remains the cryptocurrency most usable as actual money, but other coins are catching up</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Ethereum’s Vitalik Buterin Blasts Centralized Crypto Exchanges: ‘I Hope They Burn in Hell’]]></title>
+            <link>https://cointelegraph.com/news/ethereum-s-vitalik-buterin-blasts-centralized-crypto-exchanges-i-hope-they-burn-in-hell</link>
+            <media:content url="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jMDhiYTgyYzMwODRjNzlmOTQ0YjRlODRkM2UwNTU1Mi5qcGc=.jpg"  medium="image"  />
+            <enclosure url="http://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jMDhiYTgyYzMwODRjNzlmOTQ0YjRlODRkM2UwNTU1Mi5qcGc=.jpg"  length="528" type="image/jpg"/>
+            <pubDate>Sat, 07 Jul 2018 14:07:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Helen Partz]]></dc:creator>
+                                                <category><![CDATA[Altcoin]]></category>
+                                                                <category><![CDATA[Ethereum]]></category>
+                                                                <category><![CDATA[Vitalik Buterin]]></category>
+                                                                <category><![CDATA[Cryptocurrencies]]></category>
+                                                                <category><![CDATA[Smart Contracts]]></category>
+                                                                <category><![CDATA[P2P]]></category>
+                                                                <category><![CDATA[Cryptocurrency Exchange]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/ethereum-s-vitalik-buterin-blasts-centralized-crypto-exchanges-i-hope-they-burn-in-hell</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy9jMDhiYTgyYzMwODRjNzlmOTQ0YjRlODRkM2UwNTU1Mi5qcGc=.jpg"><p>Ethereum’s Vitalik Buterin blasted centralized exchanges, saying that he hopes they will “burn in hell”</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[From $2.9 Billion in a Month to Hundreds Dead: Trends of the Rollercoaster ICO Market in 18 Months]]></title>
+            <link>https://cointelegraph.com/news/from-2-9-billion-in-a-month-to-hundreds-dead-trends-of-the-rollercoaster-ico-market-in-18-months</link>
+            <media:content url="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84OWVmOWVhZWNiZWEwOTJkOTg2MTRkYjY2YzM2NGI4YS5qcGc=.jpg"  medium="image"  />
+            <enclosure url="http://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84OWVmOWVhZWNiZWEwOTJkOTg2MTRkYjY2YzM2NGI4YS5qcGc=.jpg"  length="528" type="image/jpg"/>
+            <pubDate>Sat, 07 Jul 2018 12:06:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Darryn Pollock]]></dc:creator>
+                                                <category><![CDATA[Altcoin]]></category>
+                                                                <category><![CDATA[ICO]]></category>
+                                                                <category><![CDATA[Cryptocurrencies]]></category>
+                                                                <category><![CDATA[Telegram]]></category>
+                                                                <category><![CDATA[Petro]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/from-2-9-billion-in-a-month-to-hundreds-dead-trends-of-the-rollercoaster-ico-market-in-18-months</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy84OWVmOWVhZWNiZWEwOTJkOTg2MTRkYjY2YzM2NGI4YS5qcGc=.jpg"><p>The ICO market can see up to $2.9 billion being made in a month, but it can also see hundreds of projects die. Overview of trends and numbers of the 2017-2018 ICOs market</p>]]>
+            </description>
+        </item>
+                    <item>
+            <title><![CDATA[Bitcoin, Ethereum, Ripple, Bitcoin Cash, EOS, Litecoin, Cardano, Stellar, IOTA, NEO: Price Analysis, July 06]]></title>
+            <link>https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-litecoin-cardano-stellar-iota-neo-price-analysis-july-06</link>
+            <media:content url="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zZmU1NjUxMzcwZmYxZDAzZmRhZmQzN2I3YmRkMWFjNy5qcGc=.jpg"  medium="image"  />
+            <enclosure url="http://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zZmU1NjUxMzcwZmYxZDAzZmRhZmQzN2I3YmRkMWFjNy5qcGc=.jpg"  length="528" type="image/jpg"/>
+            <pubDate>Fri, 06 Jul 2018 18:50:00 +0100</pubDate>
+            <dc:creator><![CDATA[Cointelegraph By Rakesh Upadhyay]]></dc:creator>
+                                                <category><![CDATA[Altcoin]]></category>
+                                                                <category><![CDATA[Ethereum]]></category>
+                                                                <category><![CDATA[Ripple]]></category>
+                                                                <category><![CDATA[Bitcoin Cash]]></category>
+                                                                <category><![CDATA[EOS]]></category>
+                                                                <category><![CDATA[Litecoin]]></category>
+                                                                <category><![CDATA[Cardano]]></category>
+                                                                <category><![CDATA[Stellar]]></category>
+                                                                <category><![CDATA[IOTA]]></category>
+                                                                <category><![CDATA[NEO]]></category>
+                                                                <category><![CDATA[Price Analysis]]></category>
+                                                                <category><![CDATA[Bitcoin Price]]></category>
+                                                                <category><![CDATA[Ethereum Price]]></category>
+                                        <guid isPermaLink="false">https://cointelegraph.com/news/bitcoin-ethereum-ripple-bitcoin-cash-eos-litecoin-cardano-stellar-iota-neo-price-analysis-july-06</guid>
+            <description>
+                <![CDATA[<img src="https://images.cointelegraph.com/images/528_Ly9jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8zZmU1NjUxMzcwZmYxZDAzZmRhZmQzN2I3YmRkMWFjNy5qcGc=.jpg"><p>Fundstrat’s Tom Lee has doubled down on his $25,000 target for Bitcoin by year end of 2018. Is that really possible from the technical analysis point of view? Let’s look at the charts</p>]]>
+            </description>
+        </item>
+    		
+	</channel>
+</rss>
