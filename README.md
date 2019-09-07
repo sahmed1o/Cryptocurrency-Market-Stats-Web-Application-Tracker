@@ -7,7 +7,8 @@ This is an old project, and it is no longer being updated or worked on. Data was
 <img src="screenshots/screenbg3.png"  height="400" />
 
 # Brief Summary
-A Multi-Platform responsive web application providing stats for cryptocurrency on both desktop & mobile browsers.  Users are able to view market data, prices, charts, rankings, and more on any device browser.  An application interacting with the website was also created for android.
+
+A Cryptocurrency market tracker with the tracking and data compiled of over 1500 cryptocurrencies.  Users were able to view market data, prices, charts, rankings, and more on any device browser, with active tracking of currency information. An application interacting with the web application was also created for android. 
 
 # Updating Data and Cron Jobs
 There are seperate micro-tasks run at certain intervals to update all the data from the site. These micro-tasks are under the cron folder and should be run as an automated cron job.
