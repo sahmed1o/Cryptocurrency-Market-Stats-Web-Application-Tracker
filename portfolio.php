@@ -23,7 +23,7 @@
   <script>
 	//sort table if not mobile or tablet view
 	if ($(window).width() > 970) {
-		//document.write('<script type="text/javascript" src="js/sort-table.js"><\/script>');
+		//document.write('<\/script type="text/javascript" src="js/sort-table.js"><\/script>');
 	}
    </script>
 </head>
@@ -328,8 +328,7 @@ $totcrypto = $getbtcinflue["data"]["active_cryptocurrencies"];
 </div>
 
  <div id="gads2" style="margin: 0 auto; text-align:center; background-color: #161d24; width: 100%; height: 0;">
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-	<!-- Main Banner AD 1 -->
+
  </div>
 
 <div  id="searchtitle2" style="border-bottom: 1px solid #2d3849;">
@@ -647,8 +646,7 @@ $totcrypto = $getbtcinflue["data"]["active_cryptocurrencies"];
 </div>
 
   <div id="gads" style="margin: 0 auto; text-align:center; background-color: #161d24; width: 100%; height: 0;">
-		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-	<!-- Main Banner AD 1 -->
+	
  </div>
  
 <script> var totalpaget = <?php echo $totalpages2; ?>; var totalrows = <?php echo $totrows; ?>; var ok = <?php echo intval(isset($_GET['page'])); ?>; var none_found = <?php echo $none_found;?>; var getnameurl = <?php echo strval(isset($_GET['coinname'])) ? 0 : 1; ?>; var getnameurl2 = <?php echo strval(isset($_GET['coinname2'])) ? 0 : 1; ?>; var gainchartdat = <?php echo json_encode($chartarray); ?>;</script>
