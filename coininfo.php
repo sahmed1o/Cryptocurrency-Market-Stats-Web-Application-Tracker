@@ -657,7 +657,6 @@ if($numexh > 30){
 <div class="col-md-3 col-sm-6">
 <div class="footer-info-single">
 	<h2 class="title">Downloads &amp; Tools</h2>
-	<p>Coming soon...</p>
 	
 </div>
 </div>
