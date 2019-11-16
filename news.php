@@ -221,8 +221,7 @@ $newspages = round($num/10);
 </div>
 
  <div id="gads" style="margin: 10px auto 0px auto; display: flex; justify-content: center; align-items: center; text-align:center; background-color: #161d24; width: 100%; height: 0;">
-	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-	<!-- Main Banner AD 1 -->
+	
  </div>
 <!-- ============================== slideshow news ================================ -->
 <div class="newsslide">
@@ -296,8 +295,7 @@ $newspages = round($num/10);
 </div>
 
  <div id="gads2" style="margin: 10px auto 0px auto; text-align:center;  display: flex; justify-content: center; align-items: center; background-color: #161d24; width: 100%; height: 0;">
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-	<!-- Main Banner AD 1 -->
+
  </div>
 <!-- ============================== triple article ================================ -->
 <div class="newsart">
