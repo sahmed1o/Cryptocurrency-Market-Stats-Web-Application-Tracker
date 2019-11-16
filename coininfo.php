@@ -23,7 +23,7 @@
   <script>
 	//sort table if not mobile or tablet view
 	if ($(window).width() > 970) {
-		document.write('<script type="text/javascript" src="js/sort-table.js"><\/script>');
+		document.write('<\/script type="text/javascript" src="js/sort-table.js"><\/script>');
 	}
    </script>
 </head>
@@ -410,8 +410,7 @@ function generateGraph2()
 ?>
 
   <div id="gads" style="margin: 10px auto 10px auto; display: flex; justify-content: center; align-items: center; text-align:center; background-color: #161d24; width: 100%; height: 0;">
-	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-	<!-- Main Banner AD 1 -->
+	
  </div>
  
  
@@ -460,8 +459,7 @@ function generateGraph2()
 </div>
 
  <div id="gads2" style="margin: 10px auto 10px auto; text-align:center;  display: flex; justify-content: center; align-items: center; background-color: #161d24; width: 100%; height: 0;">
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-	<!-- Main Banner AD 1 -->
+
  </div>
 
  <div  id="searchtitle2" style="border-bottom: 1px solid #2d3849;">
