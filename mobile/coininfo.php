@@ -24,7 +24,7 @@
   <script>
 	//sort table if not mobile or tablet view
 	if ($(window).width() > 970) {
-		document.write('<script type="text/javascript" src="../js/sort-table.js"><\/script>');
+		document.write('<\/script type="text/javascript" src="../js/sort-table.js"><\/script>');
 	}
    </script>
 </head>
