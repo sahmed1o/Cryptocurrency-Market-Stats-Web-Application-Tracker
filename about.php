@@ -189,7 +189,7 @@ $totcrypto = $getbtcinflue["data"]["active_cryptocurrencies"];
           <div class="col-sm-4">
             <div class="post" >
               <div class="image"><a href=""><img src="img/blog1.jpg" alt="" class="img-responsive"></a></div>
-              <h3 ><a href="" style="color: #f1cb05 !important;">Locus ANS</a></h3>
+              <h3 ><a href="" style="color: #f1cb05 !important;">StatsCryptoMarket</a></h3>
               <p class="post__intro" style="color: white !important;">View other apps by our publisher here, including StatsCryptoMarket's app</p>
               <p class="read-more"><a href="" class="btn btn-ghost">Read More</a></p>
             </div>
