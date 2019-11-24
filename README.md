@@ -1,7 +1,5 @@
 # Cryptocurrency-Market-Stats-Web-Application-and-Site
 
-This is an old project, and it is no longer being updated or worked on. 
-
 <img src="screenshots/screenbg1.png"  height="400" />
 <img src="screenshots/screenbg2.png"  height="400" />
 <img src="screenshots/screenbg3.png"  height="400" />
