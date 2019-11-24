@@ -30,7 +30,7 @@ The updatehistoricdata.php cron job takes the current data stored, and updates t
 <img src="screenshots/screenbg5.png"  height="400" />
 
 # Mobile Application
-The website is cross-platform, it works on both the browser, and as a standalone app that loads the website on a webview. The app loads the mobile webpage under the "mobile" folder. The site also scales based on viewport to support multiple screen sizes.
+The website is cross-platform, it works on both the browser, and as a standalone app that loads the website on a webview. The app can load the mobile webpage under the "mobile" folder if a developer prefers having a seperate mobile web page. The site also scales based on viewport to support multiple screen sizes.
 
 <p float="left">
     <img src="screenshots/screen1.png"  height="300" />
